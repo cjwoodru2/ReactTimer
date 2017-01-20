@@ -16,7 +16,16 @@ var Nav = () => {
 	          </ul>
 	        </div>
 	        <div className="top-bar-right">
-							<p><a href="htpps://www.github.com/cjwoodru2">Made by Chris Woodruff</a></p>
+              <ul className="menu">
+                <li className="menu-text">
+                  <span>
+                    This is a
+                    <a href="htpps://www.github.com/cjwoodru2"> Chris Woodruff
+                      </a>
+                     Creation
+                  </span>
+                </li>
+              </ul>
 	        </div>
 	      </div>
 		)
