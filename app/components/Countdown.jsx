@@ -1,15 +1,15 @@
 var React = require('react'),
     Link  = require('react-router');
 
-var Timer = React.createClass({
+var Countdown = React.createClass({
   render: function() {
     return (
-      <div>
-        <h1 className="text-center page-title">Timer Page!</h1>
-      </div>
 
+      <div>
+        <h1 className="text-center page-title">Countdown Page!</h1>
+      </div>
     );
   }
 });
 
-module.exports = Timer;
+module.exports = Countdown;
