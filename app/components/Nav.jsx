@@ -19,10 +19,7 @@ var Nav = () => {
               <ul className="menu">
                 <li className="menu-text">
                   <span>
-                    This is a
-                    <a href="htpps://www.github.com/cjwoodru2"> Chris Woodruff
-                      </a>
-                     Creation
+                    This is a <a href="htpps://www.github.com/cjwoodru2"> Chris Woodruff </a> Creation
                   </span>
                 </li>
               </ul>
