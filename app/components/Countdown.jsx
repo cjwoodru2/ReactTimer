@@ -9,6 +9,7 @@ var Countdown = React.createClass({
       <div calassName="text-center">
         <h1 className="text-center page-title">Countdown Page!</h1>
         <Clock totalSeconds={129}/>
+        <Controls/>
       </div>
     );
   }
